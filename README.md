@@ -4,7 +4,7 @@ Code refactor
 
 ## Motivation
 
-This assigned project refactors and organizes existing code to make it easier for other developers to read. 
+This assigned project refactors and organizes existing code to make it easier for other developers to read. The starter code can be found at https://github.com/coding-boot-camp/urban-octo-telegram.
 
 ## Screenshots 
 
