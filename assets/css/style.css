@@ -42,6 +42,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* <header> style end */
 
 /* Hero Style Start */
 .hero {
@@ -54,6 +55,7 @@ header nav ul li {
 }
 /* Hero Style End */
 
+/* main content style start */
 .content {
     width: 75%;
     display: inline-block;
@@ -78,7 +80,6 @@ header nav ul li {
 .float-right {
     float: right;
     margin-left: 25px;
-    max-height: 200px;
 }
 
 .service h2 {
@@ -89,7 +90,9 @@ header nav ul li {
 .service p {
     font-size: 16px;
 }
+/* main content style end */
 
+/* sidebar style start*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,7 +119,9 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+/* sidebar style end*/
 
+/* footer style start */
 footer {
     padding: 30px;
     clear: both;
@@ -127,3 +132,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer style end */
